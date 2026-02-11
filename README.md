@@ -1,6 +1,6 @@
 <h1>Hi, I'm Hashim! 
 
-<h2>👨‍💻 Cybersecurity Projects:</h2>
+<h2>👨‍💻 IT Support Labs:</h2>
 
 [Active Directory Home Lab](https://github.com/hashim2/ActiveDirectoryLab)
 
