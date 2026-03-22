@@ -3,6 +3,7 @@
 <h2>👨‍💻 IT Support Labs:</h2>
 
 [Active Directory Home Lab](https://github.com/hashim2/ActiveDirectoryLab)
+[GPO Management Lab](https://github.com/hashim2/GPO-Management-Lab)
 
 <h2> - Certifications</h2>
 
