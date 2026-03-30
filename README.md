@@ -6,7 +6,8 @@
 
 [GPO Management Lab](https://github.com/hashim2/GPO-Management-Lab)
 
-- [Spiceworks Help Desk Lab](https://github.com/hashim2/Spiceworks-HelpDesk-Lab)
+[Spiceworks Help Desk Lab](https://github.com/hashim2/Spiceworks-HelpDesk-Lab)
+
 <h2> - Certifications</h2>
 
 [Comptia A+](https://www.credly.com/badges/2c9d932e-3350-4069-8518-b66c65964965/public_url)
