@@ -8,6 +8,7 @@
 
 [Spiceworks Help Desk Lab](https://github.com/hashim2/Spiceworks-HelpDesk-Lab)
 
+[File Services Lab](https://github.com/hashim2/File-Services-)
 <h2> - Certifications</h2>
 
 [Comptia A+](https://www.credly.com/badges/2c9d932e-3350-4069-8518-b66c65964965/public_url)
